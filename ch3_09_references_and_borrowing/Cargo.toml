@@ -1,5 +1,5 @@
 [package]
-name = "ch3_9_references_and_borrowing"
+name = "ch3_09_references_and_borrowing"
 version = "0.1.0"
 authors = ["Ryan O'Leary <ryan@ryanoleary.ca>"]
 

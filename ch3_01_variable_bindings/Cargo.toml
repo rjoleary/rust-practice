@@ -1,5 +1,5 @@
 [package]
-name = "ch3_5_if"
+name = "ch3_01_variable_bindings"
 version = "0.1.0"
 authors = ["Ryan O'Leary <ryan@ryanoleary.ca>"]
 

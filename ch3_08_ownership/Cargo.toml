@@ -1,5 +1,5 @@
 [package]
-name = "ch3_6_loops"
+name = "ch3_08_ownership"
 version = "0.1.0"
 authors = ["Ryan O'Leary <ryan@ryanoleary.ca>"]
 
